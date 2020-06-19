@@ -1,0 +1,5 @@
+commit 60481c9f6ed83b0cada0e1c81dd6762469054882
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Jun 19 13:36:36 2020 -0700
+
+    disable offscreenCanvas (#1301)
